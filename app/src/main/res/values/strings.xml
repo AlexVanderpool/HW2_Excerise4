@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Traffic_Light</string>
+    <string name="app_name">Traffic Light</string>
     <string name="go">Go</string>
     <string name="wait">Wait</string>
     <string name="stop">Stop</string>
